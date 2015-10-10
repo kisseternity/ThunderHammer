@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ffg
 =======
 >>>>>>> parent of 385d04e... ff
+=======
+>>>>>>> parent of 2532447... Revert "Revert "add some text""
